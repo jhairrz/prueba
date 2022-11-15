@@ -15,7 +15,7 @@ public class HolaMundo {
 		System.out.println(1 / 1);*/
 		
 		
-		int longitud = "Hello Worldddd!".length();
+		int longitud = "Hello Worldd!".length();
 		System.out.println(longitud);
 	}
 	
